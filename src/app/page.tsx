@@ -1,4 +1,3 @@
-// app/page.tsx (Server Component - NO "use client")
 import ClientComments from "@/lib/clientcomment";
 import { getHyvorTalkSSOProps } from "@/lib/utils/get-sso-props";
 
