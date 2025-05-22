@@ -1,4 +1,3 @@
-// components/ClientComments.tsx
 "use client";
 
 import { Comments } from "@hyvor/hyvor-talk-react";
